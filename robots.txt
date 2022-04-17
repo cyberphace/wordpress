@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://github.com/thescannest/wordpress/wp-sitemap.xml
+Sitemap: https://thescannest.github.io/wordpress/wp-sitemap.xml
